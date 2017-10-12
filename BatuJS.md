@@ -2,16 +2,16 @@ Batu.js 모듈 사용방법에 대한 문서.
 
 이 문서는 계속 업데이트 된다.
 
-최종 업데이트: 2017-10-12 18:10:24
+최종 업데이트: 2017-10-13 1:10:24
 
 
 ## 1. Batu의 모듈 로드
 
 설명:
 
-		Batu.js의 기능을 사용하기 위해서는 소스코드에 모듈을 불러와야 한다.
+Batu.js의 기능을 사용하기 위해서는 소스코드에 모듈을 불러와야 한다.
 
-		NodeJS의 Require 구문을 사용하여 batu.js 모듈을 불러올 수 있다.
+NodeJS의 Require 구문을 사용하여 batu.js 모듈을 불러올 수 있다.
 
 Example Code:
 
@@ -24,7 +24,7 @@ Example Code:
 
 설명:
 
-	Batu에서 LAN에서 사용할 HTTP 서버를 구동한다.
+Batu에서 LAN에서 사용할 HTTP 서버를 구동한다.
 
 인자 1:
 
@@ -46,7 +46,7 @@ Example Code:
 
 설명:
 
-	Batu의 Http 호스팅을 종료한다.
+Batu의 Http 호스팅을 종료한다.
 
 인자 없음.
 
